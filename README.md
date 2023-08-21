@@ -1,4 +1,4 @@
-# special-rounds-csgoPlugin
+# Special Rounds | CS:GO Plugin
 A plugin designed to make rounds in community csgo more fun.
 Originally posted [here](https://forums.alliedmods.net/showthread.php?t=314977).
 
