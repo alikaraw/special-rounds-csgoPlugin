@@ -32,7 +32,7 @@ NOTE : "Only Given Items" means the player can only use the items given to him a
 |sr_MinHealth|The min amount of health you can get in Random HP round| - | 50|
 |sr_wzeus|Whether in "knifes only" mode there is also zeus|0 OR 1| 0|
 
-NOTE : The value of sr_MaxHealth needs to be bigger than sr_MinHealth.
+NOTE : The value of sr_MaxHealth needs to be bigger than sr_MinHealth
 
 ## Commands:
 ### All-Users Commands:
@@ -51,4 +51,4 @@ NOTE : The value of sr_MaxHealth needs to be bigger than sr_MinHealth.
 |sm_srload|Load the last settings that was saved|
 
 ## Files:
-The plugin will create a folder with a database to save the settings of the plugin. addons\sourcemod\data\SpecialRounds
+The plugin will create a folder with a database to save the settings of the plugin inside ```addons\sourcemod\data\SpecialRounds```
