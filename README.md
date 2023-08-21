@@ -17,6 +17,8 @@ This plugin is like smillar to how events in "jailbreak" work. In each round, th
 |SMGs Only|Gives eveyone a random SMG|True|
 |Space Round|ow gravity with scouts only|True|
 
+NOTE : "Only Given Items" means the player can only use the items given to him at the beginning of the round
+
 ## Requirements:
 #include \<sdkhooks>
 
